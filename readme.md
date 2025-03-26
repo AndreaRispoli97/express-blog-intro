@@ -6,3 +6,6 @@ Creiamo il nostro blog personale e giorno dopo giorno lo potremo arricchire con 
 - Configuriamo gli asset statici sull’applicazione in modo che si possano visualizzare le immagini associate ad ogni post.
 - Testare su postman;
 Buon lavoro!
+
+## Proseguimento
+
